@@ -2,7 +2,7 @@
 Partial implementation of the Esri shapefile format
 -----------------------------
 
-This project is a slap-dash, partial implementation of the standard meant for learning purposes only. Look elsewhere for quality code.
+This project is a slapdash, partial implementation of the standard meant for learning purposes only. Look elsewhere for quality code.
 
 Currently the code can read and write shapefiles/dbfs that contain point, multipoint, line, or polygon feature classes (doesn't handle Z or M data).
 
