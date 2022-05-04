@@ -10,6 +10,7 @@ The included sample program (shptest) creates a simple point feature class.
 
 useful links:
 [Esri Shapefile Specification](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf "shapefile spec") 
+
 [dBASE III File Format](https://web.archive.org/web/20190311062710/http://www.oocities.org/geoff_wass/dBASE/GaryWhite/dBASE/FAQ/qformt.htm "dBASE III File Format") 
  
  
